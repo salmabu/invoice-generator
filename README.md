@@ -8,7 +8,7 @@ A simple Python automation tool that lets you generate professional PDF invoices
 - GUI interface built with PySimpleGUI  
 - Automatically calculates totals from CSV files  
 - Supports Quantity × Price for each item  
-- Simple file selection — no need to type paths  
+- Simple file selection, no need to type paths  
 - Exports a neatly formatted PDF invoice  
 - Local-only tool (no internet required)
 
@@ -27,7 +27,7 @@ Ali, Website Design, 1, 500
 > Output
 
 The app generates one file:
-invoice_<Client Name>.pdf — your formatted invoice
+invoice_<Client Name>.pdf (your formatted invoice)
 
 You’ll find the PDF in the same folder as the app and CSV file.
 
@@ -35,10 +35,10 @@ You’ll find the PDF in the same folder as the app and CSV file.
 
 > Requirements
 
-No setup required — just run:
+No setup required, just run:
 invoice_generator_GUI.exe
 
-(Windows only — Python is NOT required)
+(Windows only, Python is NOT required)
 
 
 
